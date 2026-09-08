@@ -1,6 +1,6 @@
 ECA1407-EMBEDDED SYSTEM
-K. MANOJ KUMAR
-REGNO : 192472395
+M.Rohith
+REGNO : 192311184
 #include <reg51.h>
 
 void main(void)
