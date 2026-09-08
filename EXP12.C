@@ -1,6 +1,6 @@
 ECA1407-EMBEDDED SYSTEMS
-K.MANOJ KUMAR
-REDG NO.192472395
+M.Rohith
+REDG NO.192311184
 #include <reg51.h> void main()
 {
 while (1)
