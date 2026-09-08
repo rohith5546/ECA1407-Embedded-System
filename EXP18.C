@@ -1,3 +1,7 @@
+
+EMBEDDED SYSTEMS-ECA1407
+M.Rohith
+192311184
 #include <reg51.h>
 
 /* Global PWM counter */
