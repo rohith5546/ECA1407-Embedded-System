@@ -1,6 +1,6 @@
 EMBEDDED SYSTEM - ECA1407
-K.MANOJ KUMAR
-192472395
+M.Rohith
+192311184
 #include <reg51.h> #include <stdio.h>
 void main (void){
 SCON = 0x50; /* SCON: mode 1, 8-bit UART, enable rcvr */ TMOD = 0x20;
